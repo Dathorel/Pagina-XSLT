@@ -1,0 +1,156 @@
+{
+    "xml-stylesheet": {},
+    "starwars": [
+        {},
+        {
+            "cr": [
+                {
+                    "-num": "1",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio I: La Amenaza Fantasma",
+                    "NombreOrig": "Episode I: The Phantom Menace",
+                    "FechaPubli": "1999",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 32 ABY"
+                },
+                {
+                    "-num": "2",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio II: El Ataque de los Clones",
+                    "NombreOrig": "Episode II: Atack of the Clones",
+                    "FechaPubli": "2002",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 22 ABY"
+                },
+                {
+                    "-num": "3",
+                    "Clasificacion": "Serie Animación",
+                    "Nombre": "Las Guerras Clon",
+                    "NombreOrig": "Clone Wars",
+                    "FechaPubli": "2003-2005",
+                    "Director": "Genndy Tartakovsky",
+                    "UbiTemp": "Años 22 ABY - 19 ABY"
+                },
+                {
+                    "-num": "4",
+                    "Clasificacion": "Pelicula Animación",
+                    "Nombre": "Las Guerras Clon",
+                    "NombreOrig": "The Clone Wars",
+                    "FechaPubli": "2008",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 21 ABY"
+                },
+                {
+                    "-num": "5",
+                    "Clasificacion": "Serie Animación",
+                    "Nombre": "Las Guerras Clon",
+                    "NombreOrig": "The Clone Wars",
+                    "FechaPubli": "2008-2020",
+                    "Director": "Dave Filoni",
+                    "UbiTemp": "Años 21 ABY - 19 ABY"
+                },
+                {
+                    "-num": "6",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio III: La Venganza de los Sith",
+                    "NombreOrig": "Episode III: Revenge of the Sith",
+                    "FechaPubli": "2005",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 19 ABY"
+                },
+                {
+                    "-num": "7",
+                    "Clasificacion": "Película Spin-off",
+                    "Nombre": "Han Solo: Una historia de Star Wars",
+                    "NombreOrig": "Solo: A Star Wars story",
+                    "FechaPubli": "2018",
+                    "Director": "Ron Howard",
+                    "UbiTemp": "Años 13 ABY - 10 ABY"
+                },
+                {
+                    "-num": "8",
+                    "Clasificacion": "Serie Animación",
+                    "Nombre": "Rebels",
+                    "NombreOrig": "Rebels",
+                    "FechaPubli": "2014-2018",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Años 5 ABY - 1 ABY"
+                },
+                {
+                    "-num": "9",
+                    "Clasificacion": "Película Spin-off",
+                    "Nombre": "Rogue One: Una historia de Star Wars",
+                    "NombreOrig": "Rogue One: A Star Wars story",
+                    "FechaPubli": "2016",
+                    "Director": "Gareth Edwards",
+                    "UbiTemp": "Año 0 ABY"
+                },
+                {
+                    "-num": "10",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio IV: Una Nueva Esperanza",
+                    "NombreOrig": "Episode IV: A new Hope",
+                    "FechaPubli": "1977",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 0 ABY/0 DBY"
+                },
+                {
+                    "-num": "11",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio V: El Imperio Contraataca",
+                    "NombreOrig": "Episode V: Empire Strikes Back",
+                    "FechaPubli": "1981",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 3 DBY"
+                },
+                {
+                    "-num": "12",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio VI: El Retorno del Jedi",
+                    "NombreOrig": "Episode VI: Return of the Jedi",
+                    "FechaPubli": "1983",
+                    "Director": "George Lucas",
+                    "UbiTemp": "Año 4 DBY"
+                },
+                {
+                    "-num": "13",
+                    "Clasificacion": "Serie",
+                    "Nombre": "El Mandaloriano",
+                    "NombreOrig": "The Mandalorian",
+                    "FechaPubli": "2019-???",
+                    "Director": "John Favreau",
+                    "UbiTemp": "Año 9 DBY"
+                }
+            ],
+            "no": [
+                {
+                    "-num": "1",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio VII: El Despertar de la Fuerza",
+                    "NombreOrig": "Episode IX: The Force Awakens",
+                    "FechaPubli": "2015",
+                    "Director": "J.J. Abrahams",
+                    "UbiTemp": "Año 34 DBY"
+                },
+                {
+                    "-num": "2",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio VIII: Los Ultimos Jedi",
+                    "NombreOrig": "Episode VIII: The Last Jedi",
+                    "FechaPubli": "2017",
+                    "Director": "Rian Johnson",
+                    "UbiTemp": "Año 34 DBY"
+                },
+                {
+                    "-num": "3",
+                    "Clasificacion": "Película",
+                    "Nombre": "Episodio IX: El Ascenso Skywalker",
+                    "NombreOrig": "Episode IX: Rise of Skywalker",
+                    "FechaPubli": "2019",
+                    "Director": "J.J. Abrahams",
+                    "UbiTemp": "Año 35 DBY"
+                }
+            ]
+        }
+    ]
+}

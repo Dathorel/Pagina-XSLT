@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml2.xsl"?>
+<!DOCTYPE jojos [
+    <!ELEMENT NoTemp ANY>
+    <!ELEMENT Protagonista (#PCDATA)>
+]>
+<jojos>
+    <temp num="1">
+        <NoTemp>Parte 1</NoTemp>
+        <NombreTemp>"Phantom Blood"</NombreTemp>
+        <Habilidades>Hamon</Habilidades>
+        <Protagonista>Jonathan Joestar</Protagonista>
+        <StandProta>No tiene</StandProta>
+        <SecundarioPrincipal>Speedwagon</SecundarioPrincipal>
+        <StandSecun>No tiene</StandSecun>
+        <Villano>Dio Brando</Villano>
+        <StandVillano>No tiene</StandVillano>
+        <Ubicacion>Inglaterra</Ubicacion>
+        <UbicacionTemp>Año 1890</UbicacionTemp>
+        <AñoPublicación>Año 1987</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="2">
+        <NoTemp>Parte 2</NoTemp>
+        <NombreTemp>Battle Tendency</NombreTemp>
+        <Habilidades>Hamon</Habilidades>
+        <Protagonista>Joseph Joestar</Protagonista>
+        <StandProta>No tiene</StandProta>
+        <SecundarioPrincipal>Caesar Zeppeli</SecundarioPrincipal>
+        <StandSecun>No tiene</StandSecun>
+        <Villano>Hombres del Pilar</Villano>
+        <StandVillano>No tiene</StandVillano>
+        <Ubicacion>Nueva York e Italia</Ubicacion>
+        <UbicacionTemp>Año 1938</UbicacionTemp>
+        <AñoPublicación>Año 1988</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="3">
+        <NoTemp>Parte 3</NoTemp>
+        <NombreTemp>Stardust Crusaders</NombreTemp>
+        <Habilidades>Stands</Habilidades>
+        <Protagonista>Jotaro Kujo</Protagonista>
+        <StandProta>Star Platinum</StandProta>
+        <SecundarioPrincipal>Jean Pierre Polnareff</SecundarioPrincipal>
+        <StandSecun>Silver Chariot</StandSecun>
+        <Villano>DIO</Villano>
+        <StandVillano>ZA WARUDO</StandVillano>
+        <Ubicacion>Desde Tokio hasta el Cairo</Ubicacion>
+        <UbicacionTemp>Año 1989</UbicacionTemp>
+        <AñoPublicación>Año 1989</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="4">
+        <NoTemp>Parte 4</NoTemp>
+        <NombreTemp>Diamond is Unbreakable</NombreTemp>
+        <Habilidades>Stands</Habilidades>
+        <Protagonista>Josuke Higashikata</Protagonista>
+        <StandProta>Crazy Diamond</StandProta>
+        <SecundarioPrincipal>Koichi Hirose</SecundarioPrincipal>
+        <StandSecun>Echoes</StandSecun>
+        <Villano>Kira Yoshikage</Villano>
+        <StandVillano>Killer Queen</StandVillano>
+        <Ubicacion>Ciudad de Morioh (Japon)</Ubicacion>
+        <UbicacionTemp>Año 1999</UbicacionTemp>
+        <AñoPublicación>Año 1992</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="5">
+        <NoTemp>Parte 5</NoTemp>
+        <NombreTemp>Vento Aureo</NombreTemp>
+        <Habilidades>Stands</Habilidades>
+        <Protagonista>Giorno Giovanna</Protagonista>
+        <StandProta>Golden Experience</StandProta>
+        <SecundarioPrincipal>Bruno Bucciarati</SecundarioPrincipal>
+        <StandSecun>Sticky Fingers</StandSecun>
+        <Villano>Diavolo</Villano>
+        <StandVillano>King Crimson</StandVillano>
+        <Ubicacion>Italia</Ubicacion>
+        <UbicacionTemp>Año 2001</UbicacionTemp>
+        <AñoPublicación>Año 1995</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="6">
+        <NoTemp>Parte 6</NoTemp>
+        <NombreTemp>Stone Ocean</NombreTemp>
+        <Habilidades>Stands</Habilidades>
+        <Protagonista>Jolyne Kujo</Protagonista>
+        <StandProta>Stone Free</StandProta>
+        <SecundarioPrincipal>Ermes Costello</SecundarioPrincipal>
+        <StandSecun>Kiss</StandSecun>
+        <Villano>Enrico Pucci</Villano>
+        <StandVillano>Whitesnake</StandVillano>
+        <Ubicacion>Carcel de Florida</Ubicacion>
+        <UbicacionTemp>Año 2011</UbicacionTemp>
+        <AñoPublicación>Año 2000</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+    <temp num="7">
+        <NoTemp>Parte 7</NoTemp>
+        <NombreTemp>Steel Ball Run</NombreTemp>
+        <Habilidades>Spin y Stands</Habilidades>
+        <Protagonista>Johnny Joestar</Protagonista>
+        <StandProta>Tusk</StandProta>
+        <SecundarioPrincipal>Gyro Zeppeli</SecundarioPrincipal>
+        <StandSecun>Ball Breaker</StandSecun>
+        <Villano>Funny Valentine</Villano>
+        <StandVillano>D4C</StandVillano>
+        <Ubicacion>Todo EEUU</Ubicacion>
+        <UbicacionTemp>Año 1890</UbicacionTemp>
+        <AñoPublicación>Año 2004</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+        <temp num="8">
+        <NoTemp>Parte 8</NoTemp>
+        <NombreTemp>Jojolion</NombreTemp>
+        <Habilidades>Stands</Habilidades>
+        <Protagonista>Josuke Higashikata</Protagonista>
+        <StandProta>Soft and Wet</StandProta>
+        <SecundarioPrincipal>Yasuho Hirose</SecundarioPrincipal>
+        <StandSecun>Paisley Park</StandSecun>
+        <Villano>???</Villano>
+        <StandVillano>???</StandVillano>
+        <Ubicacion>Ciudad de Morioh (Japon)</Ubicacion>
+        <UbicacionTemp>Año 2011</UbicacionTemp>
+        <AñoPublicación>Año 2011</AñoPublicación>
+        <Autor>	Hirohiko Araki</Autor>
+    </temp>
+</jojos>

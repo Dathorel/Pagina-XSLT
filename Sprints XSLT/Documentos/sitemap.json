@@ -1,0 +1,38 @@
+{
+    "xml-stylesheet": {},
+    "urlset": [
+        {},
+        {
+            "-xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9",
+            "url": [
+                {
+                    "loc": "index.html",
+                    "lastmod": "2020-05-24",
+                    "changefreq": "monthly"
+                },
+                {
+                    "loc": "xml1.xml",
+                    "lastmod": "2020-05-23",
+                    "changefreq": "daily"
+                },
+                {
+                    "loc": "xml2.xml",
+                    "lastmod": "2020-05-23",
+                    "priority": "0.8",
+                    "changefreq": "daily"
+                },
+                {
+                    "loc": "xml3.xml",
+                    "lastmod": "2020-05-23",
+                    "priority": "0.8",
+                    "changefreq": "daily"
+                },
+                {
+                    "loc": "formulario.xml",
+                    "lastmod": "2020-05-24",
+                    "changefreq": "weekly"
+                }
+            ]
+        }
+    ]
+}

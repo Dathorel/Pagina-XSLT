@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml3.xsl"?>
+<!DOCTYPE starwars [
+    <!ELEMENT Nombre ANY>
+    <!ELEMENT Clasificacion (#PCDATA)>
+]>
+<starwars>
+    <cr num="1">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio I: La Amenaza Fantasma</Nombre>
+        <NombreOrig>Episode I: The Phantom Menace</NombreOrig>
+        <FechaPubli>1999</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 32 ABY</UbiTemp>
+    </cr>
+    <cr num="2">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio II: El Ataque de los Clones</Nombre>
+        <NombreOrig>Episode II: Atack of the Clones</NombreOrig>
+        <FechaPubli>2002</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 22 ABY</UbiTemp>
+    </cr>
+    <cr num="3">
+        <Clasificacion>Serie Animación</Clasificacion>
+        <Nombre>Las Guerras Clon</Nombre>
+        <NombreOrig>Clone Wars</NombreOrig>
+        <FechaPubli>2003-2005</FechaPubli>
+        <Director>Genndy Tartakovsky</Director>
+        <UbiTemp>Años 22 ABY - 19 ABY</UbiTemp>
+    </cr>
+    <cr num="4">
+        <Clasificacion>Pelicula Animación</Clasificacion>
+        <Nombre>Las Guerras Clon</Nombre>
+        <NombreOrig>The Clone Wars</NombreOrig>
+        <FechaPubli>2008</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 21 ABY</UbiTemp>
+    </cr>
+    <cr num="5">
+        <Clasificacion>Serie Animación</Clasificacion>
+        <Nombre>Las Guerras Clon</Nombre>
+        <NombreOrig>The Clone Wars</NombreOrig>
+        <FechaPubli>2008-2020</FechaPubli>
+        <Director>Dave Filoni</Director>
+        <UbiTemp>Años 21 ABY - 19 ABY</UbiTemp>
+    </cr>
+    <cr num="6">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio III: La Venganza de los Sith</Nombre>
+        <NombreOrig>Episode III: Revenge of the Sith</NombreOrig>
+        <FechaPubli>2005</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 19 ABY</UbiTemp>
+    </cr>
+    <cr num="7">
+        <Clasificacion>Película Spin-off</Clasificacion>
+        <Nombre>Han Solo: Una historia de Star Wars</Nombre>
+        <NombreOrig>Solo: A Star Wars story</NombreOrig>
+        <FechaPubli>2018</FechaPubli>
+        <Director>Ron Howard</Director>
+        <UbiTemp>Años 13 ABY - 10 ABY</UbiTemp>
+    </cr>
+    <cr num="8">
+        <Clasificacion>Serie Animación</Clasificacion>
+        <Nombre>Rebels</Nombre>
+        <NombreOrig>Rebels</NombreOrig>
+        <FechaPubli>2014-2018</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Años 5 ABY - 1 ABY</UbiTemp>
+    </cr>
+    <cr num="9">
+        <Clasificacion>Película Spin-off</Clasificacion>
+        <Nombre>Rogue One: Una historia de Star Wars</Nombre>
+        <NombreOrig>Rogue One: A Star Wars story</NombreOrig>
+        <FechaPubli>2016</FechaPubli>
+        <Director>Gareth Edwards</Director>
+        <UbiTemp>Año 0 ABY</UbiTemp>
+    </cr>
+    <cr num="10">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio IV: Una Nueva Esperanza</Nombre>
+        <NombreOrig>Episode IV: A new Hope</NombreOrig>
+        <FechaPubli>1977</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 0 ABY/0 DBY</UbiTemp>
+    </cr>
+    <cr num="11">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio V: El Imperio Contraataca</Nombre>
+        <NombreOrig>Episode V: Empire Strikes Back</NombreOrig>
+        <FechaPubli>1981</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 3 DBY</UbiTemp>
+        
+    </cr>
+    <cr num="12">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio VI: El Retorno del Jedi</Nombre>
+        <NombreOrig>Episode VI: Return of the Jedi</NombreOrig>
+        <FechaPubli>1983</FechaPubli>
+        <Director>George Lucas</Director>
+        <UbiTemp>Año 4 DBY</UbiTemp>
+        
+    </cr>
+    <cr num="13">
+        <Clasificacion>Serie</Clasificacion>
+        <Nombre>El Mandaloriano</Nombre>
+        <NombreOrig>The Mandalorian</NombreOrig>
+        <FechaPubli>2019-???</FechaPubli>
+        <Director>John Favreau</Director>
+        <UbiTemp>Año 9 DBY</UbiTemp>
+    </cr>
+    
+    
+    <no num="1">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio VII: El Despertar de la Fuerza</Nombre>
+        <NombreOrig>Episode IX: The Force Awakens</NombreOrig>
+        <FechaPubli>2015</FechaPubli>
+        <Director>J.J. Abrahams</Director>
+        <UbiTemp>Año 34 DBY</UbiTemp>
+    </no>
+    <no num="2">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio VIII: Los Ultimos Jedi</Nombre>
+        <NombreOrig>Episode VIII: The Last Jedi</NombreOrig>
+        <FechaPubli>2017</FechaPubli>
+        <Director>Rian Johnson</Director>
+        <UbiTemp>Año 34 DBY</UbiTemp>
+    </no>
+    <no num="3">
+        <Clasificacion>Película</Clasificacion>
+        <Nombre>Episodio IX: El Ascenso Skywalker</Nombre>
+        <NombreOrig>Episode IX: Rise of Skywalker</NombreOrig>
+        <FechaPubli>2019</FechaPubli>
+        <Director>J.J. Abrahams</Director>
+        <UbiTemp>Año 35 DBY</UbiTemp>
+    </no>
+</starwars>

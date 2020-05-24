@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<!DOCTYPE urlset [
+    <!ELEMENT priority EMPTY>
+    <!ELEMENT loc ANY>
+    <!ELEMENT lastmod (#PCDATA)>
+    <!ELEMENT changefreq (#PCDATA)>
+]>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>index.html</loc>
+        <lastmod>2020-05-24</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>xml1.xml</loc>
+        <lastmod>2020-05-23</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>xml2.xml</loc>
+        <lastmod>2020-05-23</lastmod>
+        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>xml3.xml</loc>
+        <lastmod>2020-05-23</lastmod>
+        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>formulario.xml</loc>
+        <lastmod>2020-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
+
